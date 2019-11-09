@@ -212,3 +212,34 @@ header img {
 	padding: 0px 20px 20px 20px;
 	border-bottom: 1px black dashed;
 }
+
+.content-blocks {
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 30px;
+	justify-content: space-around;
+}
+
+.content-block {
+	flex-basis: 40%;
+	border-bottom: 1px dashed black;
+	margin-bottom: 60px;
+}
+
+.content-block h2 {
+	margin-top: 10px;
+}
+
+.content-block .cta {
+	margin-top: 15px;
+	margin-bottom: 20px;
+	border: 2px solid black;
+	border-radius: 9px;
+	padding: 10px 0px;
+	width: 130px;
+	text-align: center;
+}
+
+.work-together {
+	padding: 0px 20px;
+}
