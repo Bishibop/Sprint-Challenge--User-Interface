@@ -34,40 +34,13 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-	Semantic HTML describes the meaning of the content on a webpage rather than just defining its presentation.
-
-	For example the nav element behaves the same as a plain div, but it describes what the content is as well. Nav would be an example of semantic HTML. Other examples would include section, h1, article, header, footer and dozens of others.
-
-	Semantic HTML is used to describe the content of different parts of the webpage for both people and other machines. One of the benefits of this would be SEO. With semantic HTML, search-engine spiders can better undestand the content of the pages you make. Another benefit of using semantic HTML is that it defines a standard set of common HTML elements, like nav and section, which web developers can generally expect to see across both products and teams within organizations. This means that developers don't have to figure out how each separate project handles the most common parts of webpages.
-
-
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
-	First, with display: block the element takes up the full width of the line. It does not allow any other elements to display on either side of it. Display: inline on the other hand, does allow other elements to display on the same line as it.
-
-	Second, Display: block elements can use the "height" property. The "height" property will have no effect on display: inline elements.
-
 
 3. What are the 4 areas of the box model?
 
-	Margin, border, padding, and content
-
-
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-	The cross axis
-
-
 5. Explain why git is valuable to a team of developers.
-
-	Git allows teams of developers to manage the ever increasing complexity of growing codebases.
-
-	At it's most basic level, git allows developers to revert their codebase back to a known working version if the changes they've made are no longer useful, functional, or relevant.
-
-	Git allows individual developers and teams to work on a consistent codebase, and then merge that code back into their main codebase safely. Developers can make large, wide-ranging changes to their code with confidence, knowing that other developers won't be able to inadvertently make changes to what they've been working on.
-
-	Additionally, git alows teams of developers to keep track of the origin of pieces of code and when parts of the codebase changed. This helps developers know who to ask about specific portions of code and track when certain bugs were introduced into the system so that they can be effectively debugged.
-
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
