@@ -165,23 +165,23 @@ footer nav a {
     background: crimson;
 }
 
-.middle-content .boxes .box6 {
+.box6 {
     background: forestgreen;
 }
 
-.middle-content .boxes .box7 {
+.box7 {
     background: darkorchid;
 }
 
-.middle-content .boxes .box8 {
+.box8 {
     background: hotpink;
 }
 
-.middle-content .boxes .box9 {
+.box9 {
     background: indigo;
 }
 
-.middle-content .boxes .box10 {
+.box10 {
     background: dodgerblue;
 }
  
