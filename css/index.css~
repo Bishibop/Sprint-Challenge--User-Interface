@@ -165,24 +165,45 @@ footer nav a {
     background: crimson;
 }
 
-.box6 {
+.middle-content .boxes .box6 {
     background: forestgreen;
 }
 
-.box7 {
+.middle-content .boxes .box7 {
     background: darkorchid;
 }
 
-.box8 {
+.middle-content .boxes .box8 {
     background: hotpink;
 }
 
-.box9 {
+.middle-content .boxes .box9 {
     background: indigo;
 }
 
-.box10 {
+.middle-content .boxes .box10 {
     background: dodgerblue;
 }
  
+nav {
+	display: flex;
+	align-items: flex-end;
+	margin-top: 20px;
+}
 
+nav a {
+	color: black;
+	text-decoration: none;
+	flex-basis: 10%;
+	font-size: 14px;
+}
+
+nav img {
+	margin-right: 40px;
+}
+
+header img {
+	margin-top: 40px;
+	margin-bottom: 20px;
+	max-width: 100%;
+}
