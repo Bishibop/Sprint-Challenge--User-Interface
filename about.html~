@@ -25,57 +25,57 @@
 
 	<header>
 	    <img src="img/jumbo-about.png" alt="Header image. City skyline.">
-	</header>
      
 	<section class="about">
 	    <h2>About</h2>
 
 	    <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.</p>
 	</section>
+	</header>
 
 
-	<section class="content-block">
-    	    <img src="img/about-plan.png" alt="strategy">
-    
-	    <h2>Strategy</h2>
-    
-	    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+	<section class="content-blocks">
 
-	    <div class="cta">Learn More<div>
-	</section>
+		<section class="content-block">
+		    <img src="img/about-plan.png" alt="strategy">
+	    
+		    <h2>Strategy</h2>
+	    
+		    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
 
+		    <div class="cta">Learn More<div>
+		</section>
 
+		<section class="content-block">
+		    <img src="img/about-working.png" alt="strategy">
+	    
+		    <h2>How We Work</h2>
+	    
+		    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
 
-	<section class="content-block">
-    	    <img src="img/about-working.png" alt="strategy">
-    
-	    <h2>How We Work</h2>
-    
-	    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+		    <div class="cta">Learn More<div>
+		</section>
 
-	    <div class="cta">Learn More<div>
-	</section>
+		<section class="content-block">
+		    <img src="img/about-office.png" alt="strategy">
+	    
+		    <h2>Places We Work</h2>
 
+		    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
 
+		    <div class="cta">Learn More<div>
+		</section>
 
-	<section class="content-block">
-     	    <img src="img/about-office.png" alt="strategy">
-    
-	    <h2>Places We Work</h2>
+		<section class="content-block">
+		    <img src="img/about-meeting.png" alt="strategy">
+	    
+		    <h2>Collaboration</h2>
+	    
+		    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
 
-	    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+		    <div class="cta">Learn More<div>
+		</section>
 
-	    <div class="cta">Learn More<div>
-	</section>
-
-	<section class="content-block">
-     	    <img src="img/about-meeting.png" alt="strategy">
-    
-	    <h2>Collaboration</h2>
-    
-	    <p>Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
-
-	    <div class="cta">Learn More<div>
 	</section>
 
 	<section class="work-together">
